@@ -6,3 +6,4 @@ test conflict on local
 test conflict on github
 test conflict on local2
 test conflict on github2
+test conflict on github3

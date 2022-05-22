@@ -4,3 +4,4 @@ add some remote texts
 more test
 test conflict on local
 test conflict on github
+test conflict on github2

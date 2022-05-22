@@ -10,3 +10,4 @@ test conflict on local3
 test conflict on github3
 test conflict on local4
 test conflict on github4
+test tortoise add remote settings

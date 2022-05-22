@@ -3,3 +3,4 @@ add some local texts
 add some remote texts
 more test
 add some texts on master
+test conflict on local
